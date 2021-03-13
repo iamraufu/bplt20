@@ -1,0 +1,121 @@
+[{
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "stats": "All Rounder",
+        "t20_matches": 139,
+        "salary": 400000,
+        "image": "https://i.ibb.co/BwFcG4k/shakib.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Tamim Iqbal",
+        "stats": "Batsman",
+        "t20_matches": 78,
+        "salary": 400000,
+        "image": "https://i.ibb.co/sCB89wp/tamim.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mushfiqur Rahim",
+        "stats": "Wicketkeeper",
+        "t20_matches": 86,
+        "salary": 400000,
+        "image": "https://i.ibb.co/WKXVj68/musfiq.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mustafizur Rahman",
+        "stats": "Bowler",
+        "t20_matches": 65,
+        "salary": 300000,
+        "image": "https://i.ibb.co/ZSnJjgC/mustafiz.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Mashrafe Mortaza",
+        "stats": "Bowler",
+        "t20_matches": 55,
+        "salary": 400000,
+        "image": "https://i.ibb.co/gP54pSY/mashrafi.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mahmudullah",
+        "stats": "All Rounder",
+        "t20_matches": 87,
+        "salary": 400000,
+        "image": "https://i.ibb.co/pnr4X7f/mahmudullah.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Soumya Sarkar",
+        "stats": "All Rounder",
+        "t20_matches": 50,
+        "salary": 200000,
+        "image": "https://i.ibb.co/8zz7xBL/soumya.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Liton Das",
+        "stats": "Wicketkeeper",
+        "t20_matches": 29,
+        "salary": 200000,
+        "image": "https://i.ibb.co/ct9WhJj/liton.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Abu Jayed",
+        "stats": "Bowler",
+        "t20_matches": 3,
+        "salary": 100000,
+        "image": "https://i.ibb.co/SfmjQDb/abu-zayed.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Sabbir Rahman",
+        "stats": "Batsman",
+        "t20_matches": 44,
+        "salary": 300000,
+        "image": "https://i.ibb.co/t3zTvSq/sabbir.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mehidy Hasan",
+        "stats": "All Rounder",
+        "t20_matches": 13,
+        "salary": 200000,
+        "image": "https://i.ibb.co/SRcpCL0/miraz.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Rubel Hossain",
+        "stats": "Bowler",
+        "t20_matches": 27,
+        "salary": 300000,
+        "image": "https://i.ibb.co/vJW3kkD/rubel.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Mohammad Mithun",
+        "stats": "Wicketkeeper",
+        "t20_matches": 15,
+        "salary": 100000,
+        "image": "https://i.ibb.co/wgwvqNG/mithun.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Mosaddek Hossain",
+        "stats": "Batsman",
+        "t20_matches": 14,
+        "salary": 200000,
+        "image": "https://i.ibb.co/Fb0njLs/mosaddek.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Mohammad Saifuddin",
+        "stats": "Bowler",
+        "t20_matches": 15,
+        "salary": 100000,
+        "image": "https://i.ibb.co/M8MFdw3/saifuddin.jpg"
+    }
+]

@@ -1,0 +1,20 @@
+/* .dropdown:hover>.dropdown-menu {
+    display: inline-block;
+}
+
+.dropdown>.dropdown-toggle:active {
+    pointer-events: none;
+
+
+}
+*/
+
+.auction {
+    border-bottom: 1px solid cyan;
+}
+
+
+/* 
+.dropdown>.dropdown-toggle:active {
+    border-bottom: 1px solid cyan !important;
+} */

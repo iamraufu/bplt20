@@ -1,0 +1,21 @@
+.soldContainer {
+    display: flex;
+    margin-left: 2em;
+    padding: 0em;
+}
+
+.sold-text {
+    padding: 2em;
+}
+
+.sold-highlight {
+    color: goldenrod;
+    font-size: 4rem;
+    font-weight: 700;
+    margin: 50px;
+}
+
+#sold-player {
+    color: tomato;
+    font-size: 2em;
+}
